@@ -4,7 +4,8 @@ Goal:
 To provide concert attendees with a tool to measure, understand, and mitigate hearing damage risks from loud music events by logging acoustic data and offering health insights.
 
 Problem Being Solved:
-[IMG HERE when i learn how to place one]
+![Copy of SafeSound_Pitch_FINAL (1)](https://github.com/user-attachments/assets/73cda048-5fd4-44c2-bf0d-66f176fe49a4)
+
 
 Target Users:
 
